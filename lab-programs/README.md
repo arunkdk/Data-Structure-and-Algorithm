@@ -1,1 +1,0 @@
-<h1>This repository contains all the concepts studied in Data Structure and Algorithm.</h1>
